@@ -15,9 +15,9 @@
 
 # Metrics
 ```bash
-Precision: 0.9569
-Recall: 0.9597
-F1 Score: 0.9561
+Precision: 0.9490
+Recall: 0.9522
+F1 Score: 0.9503
 ```
 
 
