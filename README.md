@@ -1,3 +1,8 @@
+
+# Oil-Spill-Detection-Using-U-Net
+
+This project implements an oil spill detection system using a U-Net convolutional neural network (CNN) for image segmentation. The model was designed and trained to automatically identify and segment oil spills from satellite or aerial imagery. The implementation pipeline includes data preprocessing, such as image resizing, normalization, and augmentation to improve model robustness. The U-Net architecture was built with an encoder–decoder structure, leveraging convolutional, pooling, and upsampling layers to capture spatial and contextual features effectively. The model was trained using TensorFlow/Keras, with binary cross-entropy loss and an Adam optimizer to accelerate convergence. The training process incorporated dropout and batch normalization to prevent overfitting and enhance generalization. After training, the model generates pixel-wise predictions, producing segmentation masks that clearly highlight oil spill regions, making it a valuable tool for automated environmental monitoring and maritime surveillance.
+
 # Dataset
 
 Oil Spill Detection Dataset: Download both the train and test directories from this https://www.kaggle.com/datasets/nabilsherif/oil-spill Kaggle dataset. This dataset contains Sentinel-1 SAR imagery annotated for oil spills. 
