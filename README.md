@@ -24,7 +24,7 @@ Oil Spill Detection Dataset: Download both the train and test directories from t
 <img width="987" height="496" alt="image" src="https://github.com/user-attachments/assets/8c728ada-3897-4eb0-88ab-dc49ccf6d689" />
 <img width="521" height="453" alt="image" src="https://github.com/user-attachments/assets/2c2851a9-18b2-40d4-b39a-1ef1379070e6" />
 
-# Metrics
+# Evaluation Metrics
 
 ```bash
 Precision: 0.9490
